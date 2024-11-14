@@ -26,6 +26,8 @@ public class Main extends Application {
         primaryStage.show();
     }
     //qusai ne change kar diya
+    // khali amhad ne change kiya
+    
 
     public static void main(String[] args) {
         launch(args);
